@@ -22,7 +22,8 @@ I have liked programming since my first year of high school, when I started with
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianapanainte&hide=c%23,shaderlab&theme=tokyonight)
 
-### 📊 GitHub Contribution Heatmap
+### 📊 GitHub Contribution Heatmap - public repositories
 
-![GitHub Heatmap](https://github-contributions-api.deno.dev/dianapanainte.svg)
+![GitHub Heatmap](https://github-contributions-api.deno.dev/dianapanainte.svg?theme=dracula)
+
 
